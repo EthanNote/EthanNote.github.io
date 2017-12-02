@@ -1,1 +1,5 @@
+---
+theme: default
+---
+
 ### Hello, world
