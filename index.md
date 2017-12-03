@@ -1,5 +1,5 @@
 ---
-site: EthanNote
+layout: home
 ---
 
 ## Hello world!
