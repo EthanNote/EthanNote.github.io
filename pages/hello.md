@@ -1,5 +1,0 @@
----
-theme: default
----
-
-### Hello, world
