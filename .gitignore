@@ -1,8 +1,0 @@
-*.gem
-.bundle
-.sass-cache
-node_modules
-Gemfile.lock
-public
-*~
-_site
