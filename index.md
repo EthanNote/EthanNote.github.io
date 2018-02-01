@@ -1,20 +1,20 @@
 # 文章分类
 
 ## 深度学习
-  - [Tensorflow](Tensorflow)   
-  - [Keras](Keras)
+  - [Tensorflow](blog/Tensorflow)   
+  - [Keras](blog/Keras)
 
 ## 图像处理
-  - [OpenCV](./OpenCV) 
-  - [Photoshop](./Photoshop)
+  - [OpenCV](blog/OpenCV) 
+  - [Photoshop](blog/Photoshop)
 
 ## 游戏开发
-  - [Unity3D](Unity3D) 
+  - [Unity3D](blog/Unity3D) 
 
 ## 编程技巧
-  - [Python](Python)  
-  - [CMake](CMake)
+  - [Python](blog/Python)  
+  - [CMake](blog/CMake)
 
 ## 其它
-  - [科普](Popularization) 
-  - [小说](Novel)
+  - [科普](blog/Popularization) 
+  - [小说](blog/Novel)
