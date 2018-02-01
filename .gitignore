@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 *.gem
 .bundle
 .sass-cache
 _site
 Gemfile.lock
+=======
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+>>>>>>> 61aea895ce389a448a1ddb8f5be47f68a02053c5
