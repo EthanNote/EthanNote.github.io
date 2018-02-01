@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # EthanNote.github.io
 This is my blog
 
