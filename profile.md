@@ -1,6 +1,3 @@
----
-theme:
----
 # Profile
 ## Basic Info
 
