@@ -12,17 +12,17 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <div>
-        <a href="profile" class="page-link">Profile</a>
-        <a href="/" class="page-link">Blog</a>
-        <a href="activity" class="page-link">Activity</a>
-      </div>
+      
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       
     </section>
-
+    <div>
+        <a href="profile" class="page-link">Profile</a>
+        <a href="/" class="page-link">Blog</a>
+        <a href="activity" class="page-link">Activity</a>
+    </div>
     <section class="main-content">
       {{ content }}
 
