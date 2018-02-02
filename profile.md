@@ -1,12 +1,10 @@
 # Profile
 ## Basic Info
-|||
-| --- | --- |
-|Name|Yishen Han|
-|Country|China|
-|Address|Xi'an, Shannxi|
-|Company|Xidian University|
-|Position|Student|
+Name: Yishen Han
+Country: China
+Address: Xi'an, Shannxi
+Company: Xidian University
+Position: Student
 
 ## Project Experience
 - WiFi based indoor positioning & activity sensing reserch
