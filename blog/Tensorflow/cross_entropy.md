@@ -32,6 +32,6 @@ tf.reduce_* 系列函数中的参数 reduction_indices 用来控制对哪些下�
 
 ```python
 
-cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_*tf.log(y), reduction_indices = [1]))
+cross_entropy = tf.reduce_mean( -tf.reduce_sum( y_ * tf.log(y), reduction_indices = [1] ))
 
 ```
