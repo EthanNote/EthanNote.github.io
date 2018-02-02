@@ -25,5 +25,5 @@ Position: Student
 - DirectX & OpenGL graphics programming
 - Unity3D game programming
 
-## Public Activicy
+## Public Activity
 - ACM TURC 2017 volunteer
