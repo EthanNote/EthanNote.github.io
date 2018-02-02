@@ -1,9 +1,13 @@
 # Profile
 ## Basic Info
 Name: Yishen Han
+
 Country: China
+
 Address: Xi'an, Shannxi
+
 Company: Xidian University
+
 Position: Student
 
 ## Project Experience
