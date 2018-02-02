@@ -5,5 +5,6 @@
 文中所提到的技术名词引用我会尽全力列出参考文献，若内容不够完整、表述有误，敬请批评指正。欢迎对文中的个人看法提出不同见解。
 
 ### 文章列表
-- [WiFi 的非常规使用方法](WiFi%20Extra%20Stage.md)
-- [WiFi 信号的发送与接收](WiFi%20transmit%20%26%20receive.md)
+- [WiFi 的非常规使用方法](wifi_extra_stage)
+- [WiFi 信号的发送与接收](wifi_transmit_and_receive)
+- [理解WiFi 的CSI](wifi_understanding_csi)
