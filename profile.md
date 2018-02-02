@@ -1,3 +1,6 @@
+---
+theme:
+---
 # Profile
 ## Basic Info
 |K|V|
