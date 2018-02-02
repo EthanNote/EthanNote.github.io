@@ -6,13 +6,11 @@ theme:
 
 <table>
 <tr><td>Name</td><td>Yishen Han</td></tr>
+<tr><td>Country</td><td>China</td></tr>
+<tr><td>Address</td><td>Xi'an, Shannxi</td></tr>
+<tr><td>Company</td><td>Xidian University</td></tr>
+<tr><td>Position</td><td>Student</td></tr>
 </table>
-
-Name: Yishen Han
-Country: China
-Address: Xi'an, Shannxi
-Company: Xidian University
-Position: Student
 
 ## Project Experience
 - WiFi based indoor positioning & activity sensing reserch
