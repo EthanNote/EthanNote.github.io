@@ -10,7 +10,7 @@
 
 Cross-entropy 的定义如下：
 
-$$H_{y'}=-\sum_{i}{y'}^{i}log(y_i)$$
+$$H_{y'}=-\sum_{i}{y'}_i log(y_i)$$
 
 其中 y 是预测的概率分布， y'是真实的概率分布。
 
