@@ -4,7 +4,9 @@ theme:
 # Profile
 ## Basic Info
 
-<table></table>
+<table>
+<tr><td>Name</td><td>Yishen Han</td></tr>
+</table>
 
 Name: Yishen Han
 Country: China
