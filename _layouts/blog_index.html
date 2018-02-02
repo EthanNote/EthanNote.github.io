@@ -14,9 +14,9 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">Welcome to my blog</h2>
       <div>
-        <a class="page-link">Profile</a>
-        <a class="page-link">Blog</a>
-        <a class="page-link">Activity</a>
+        <a href="profile" class="page-link">Profile</a>
+        <a href="/" class="page-link">Blog</a>
+        <a href="activity" class="page-link">Activity</a>
       </div>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
