@@ -1,2 +1,2 @@
 # Python 多线程编程
-- [递归锁](rlock.md)
+- [重入锁](rlock.md)
