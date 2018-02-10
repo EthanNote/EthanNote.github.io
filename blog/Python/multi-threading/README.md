@@ -1,2 +1,3 @@
 # Python 多线程编程
-- [重入锁](rlock.md)
+- [Barrier](barrier.md)
+- [重入锁(Reentraint Lock)](rlock.md)
