@@ -1,4 +1,4 @@
-# Reentrant Lock
+# 重入锁（Reentrant Lock）
 
 > A reentrant lock must be released by the thread that acquired it. Once a
 thread has acquired a reentrant lock, the same thread may acquire it again
