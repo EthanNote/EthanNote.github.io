@@ -16,6 +16,6 @@
   - [Unity3D](blog/Unity3D) 
 
 ## 其它
-  - [科普](blog/Popularization) 
+  - [科普](blog/Popularization)   
   - [小说](blog/Novel)
-  - [阅读记录](blog/reading_mark)
+  - [阅读记录](blog/reading_mark)
