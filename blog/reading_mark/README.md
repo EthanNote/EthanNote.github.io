@@ -1,7 +1,7 @@
 # 阅读记录
 
 ### 网站
-- [文档] https://www.gitbook.com
+- [文档][Git Book] https://www.gitbook.com
 - [破解][百度云] http://pandownload.com/index.html
 - [竞赛][Data Fountain] http://www.datafountain.cn
 - [OJ][Leet Code] https://leetcode.com/
