@@ -18,3 +18,4 @@
 ## 其它
   - [科普](blog/Popularization) 
   - [小说](blog/Novel)
+  - [阅读记录](blog/reading_mark)
